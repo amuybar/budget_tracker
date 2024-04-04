@@ -1,0 +1,3 @@
+const String supabaseUrl = 'https://ltvvydiefanbgwrlhgcm.supabase.co';
+const String token =
+    'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imx0dnZ5ZGllZmFuYmd3cmxoZ2NtIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MTIwNzcxMTksImV4cCI6MjAyNzY1MzExOX0.tfV9e5C7282cJ5PTVpaxUwKMyxx0ZcvICk-t6_ik35A';
